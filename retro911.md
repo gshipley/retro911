@@ -10,6 +10,18 @@
 
 While we have a special love for **Commodore computers**, our support extends to all retro systems.
 
+## The Unlikely Beginning
+
+*Because every great adventure starts with a glitch.*
+
+The idea for **Retro911** was born when **Grant Shipley**'s prized Commodore 64 unexpectedly displayed the infamous "Blue Screen of Death" during a high-stakes game of *Oregon Trail*. Panicked at the thought of losing his progress (and his virtual oxen), Grant called his friends **Frank LV**, **Taylor Smith**, **Cedric Clyburn**, and **Legare Kerrison** for emergency assistance.
+
+Armed with nothing but a dusty user manual, a soldering iron, and an unreasonable amount of caffeine, the group managed to not only revive the Commodore 64 but also enhance it to run games it was never designed to handle.
+
+Realizing they had a knack for resurrecting retro tech (and that there might be others desperate enough to need their help), they decided to form **Retro911**. The company was officially founded in Grant's garage, which still serves as a museum for questionable tech experiments.
+
+*Fun Fact*: Their first business meeting was held over a game of *Pong*, where decisions were only made between matches.
+
 ## Mission Statement
 
 *Reviving the classics, one game at a time.*
