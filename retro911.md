@@ -36,7 +36,7 @@ Our dedicated team is led by industry enthusiasts committed to the retro gaming 
   - *World Record Holder*: First player to achieve a perfect score in **"Pac-Man"** on the arcade machine while blindfolded.
   - *Fun Fact*: Taylor owns every color variant of the original Game Boy. She is also working a cat version of Pac-Man that chases dogs.
 - **Cedric Clyburn**: Board Member
-  - *World Record Holder*: Survived the longest marathon session of **"Tetris"** on the original Game Boy without a line clear.
+  - *World Record Holder*: Has won Rainbow Road on **"Mario Kart"** continuously for the most times, ever. Almost 3000 back-to-back games.
   - *Fun Fact*: Cedric still believes blowing into cartridges makes them work better.
 - **Legare Kerrison**: Board Member
   - *World Record Holder*: Has the highest score in **"Donkey Kong"** on the Commodore 64 using only the keyboard.
